@@ -20,7 +20,7 @@ int main()
 	Mygold = 0.1f;
 
 	cout << Money + 0.3f << endl;
-	cout << Money - 0.3f << endl;
+	
 	cout << Money * 0.3f << endl;
 	cout << Money / 0.3f << endl;
 
